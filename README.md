@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Soedel08
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+## Anwendungshinweise
+- Funktioniert meistens nach dem dritten Versuch (oder vierten)  
+- 90% läuft → 10% sorgt für unerwartete Plot-Twists  
+- Ideal für alle, die „nur mal kurz schauen“ … und plötzlich drei Stunden später immer noch hier sind  
 
 
 <!---
